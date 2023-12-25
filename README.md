@@ -9,7 +9,7 @@ Welcome to the Resume Image Classifier project! This project focuses on classify
 
 ## Project Links
 
-1. [**Resume Image Classifier Notebook**](resume_classifier.ipynb)
+1. [**Resume Image Classifier Notebook**](Resume_classifier.ipynbb)
 2. [**Model Accuracy Metrics**](metrics.csv)
 
 ## Project Report
