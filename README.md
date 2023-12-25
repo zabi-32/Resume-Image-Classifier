@@ -9,8 +9,8 @@ Welcome to the Resume Image Classifier project! This project focuses on classify
 
 ## Project Links
 
-1. [**Resume Image Classifier Notebook**](./Resume%20Image%20Classifier/resume_image_classifier.ipynb)
-2. [**Model Accuracy Metrics**](./Resume%20Image%20Classifier/model_metrics.csv)
+1. [**Resume Image Classifier Notebook**](resume_classifier.ipynb)
+2. [**Model Accuracy Metrics**](metrics.csv)
 
 ## Project Report
 
@@ -26,7 +26,7 @@ Resumes are essential documents in the hiring process, and automating the identi
 
 ## Model Development
 
-The project involves the development of a machine learning model using a dataset of labeled resume and non-resume images. Different algorithms and architectures may be explored to achieve the best classification performance.
+The project involves the development of a machine-learning model using a dataset of labeled resume and non-resume images. Different algorithms and architectures may be explored to achieve the best classification performance.
 
 ## How to Use the Project
 
@@ -48,9 +48,4 @@ The project involves the development of a machine learning model using a dataset
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to enhance the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Enjoy exploring and contributing to the Resume Image Classifier project!
+Contact: imzabi132@gmail.com
