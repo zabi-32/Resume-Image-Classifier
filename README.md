@@ -14,7 +14,7 @@ Welcome to the Resume Image Classifier project! This project focuses on classify
 
 ## Project Report
 
-[![Report](https://img.shields.io/badge/Report-Click%20here-yellow)](https://docs.google.com/document/d/your-documentation-link/edit#)
+[![Report](https://img.shields.io/badge/Report-Click%20here-yellow)](Report (2).pdf)
 
 ## About the Project
 
